@@ -30,7 +30,7 @@ _create a file inside the folder_ (`touch Avatar.txt`)
 
 _write a text inside the file_ (`echo "this is my first movie" > Avatar.txt`)
 
-_to see your txt, (`cat Avatar.txt`)_
+_to see your text, (`cat Avatar.txt`)_
 
 _next you add a change in the working directory to the staging area. (`git add .`)_
 
@@ -90,7 +90,7 @@ _having created your github account and github repository_
 
 _lets send copy of our work to our repository in github_
 
-_add the remote repository(github) to the local machine(git bash terminal)
+_add the remote repository(github) to the local machine(git bash terminal)_
 
 `git remote add origin <link to your github repo>`
 
